@@ -1,4 +1,5 @@
 # Project Structure
+<pre>
 .
 ├── Deliverables
 │   ├── CFG.pdf
@@ -59,7 +60,7 @@
 │           └── begintesting
 │               └── PrinttokensTest.class
 └── test.txt
-
+</pre>
 # Requirements
 Java 11 or greater
 IntelliJ IDE
